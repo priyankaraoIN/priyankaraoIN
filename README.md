@@ -4,7 +4,7 @@ Email: priyanka.rao2@unibo.it
 
 Urban Climate || Remote sensing and GIS || Green Planning Scenarios ||
 
-Short Bio: With a research career deeply rooted in Earth observation, climate resilience, and urban-environment interactions, I bring a forward-thinking, systems-oriented approach to the design of remote sensing solutions for nature and climate protection. Over the past several years, my work has focused on applying remote sensing, geospatial analysis, and AI-driven environmental modeling to pressing urban climate challenges.
+Short Bio: With a research career deeply rooted in Earth observation, climate resilience, and urban-environment interactions, I bring a forward-thinking, systems-oriented approach to the design of remote sensing solutions for nature and climate protection. My recent research focus involved micro-climate modeling using remote sensing and GIS datasets to model the Tmrt (mean radiant temperature) in a neighborhood of a city in Italy. Over the past several years, my work has focused on applying remote sensing, geospatial analysis, and AI-driven environmental modeling to pressing urban climate challenges.
 <!--
 **priyankaraoIN/priyankaraoIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
